@@ -10,9 +10,9 @@
     "url": "git+https://github.com/JoySarkarBD/next-app-with-nextauth-and-internationalization.git"
   },
   "scripts": {
-    "dev": "node api.js && next dev",
-    "build": "node api.js && next build",
-    "start": "node api.js && next start",
+    "dev": "node init && next dev",
+    "build": "node init && next build",
+    "start": "node init && next start",
     "lint": "next lint"
   },
   "dependencies": {
